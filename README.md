@@ -72,5 +72,6 @@ Import-Export Hub is a modern web platform where users can manage exports, brows
 
 ## Installation
 
+https://wondrous-pastelito-a54025.netlify.app/
 https://github.com/Moksina-Akter/Ph-Assignment-10-Server
 https://github.com/Moksina-Akter/Ph-Assignment-10--Client-
